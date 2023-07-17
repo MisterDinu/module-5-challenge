@@ -12,3 +12,4 @@ References:
     https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
     https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
     https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html
+    https://www.wcrf.org/cancer-trends/skin-cancer-statistics/
